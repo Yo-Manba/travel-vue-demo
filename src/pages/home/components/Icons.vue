@@ -8,43 +8,43 @@
         </div>
         <div class="icon">
             <div class="icon-img-box">
-                <img class="icon-img" src="http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png" />
+                <img class="icon-img" src="http://img1.qunarzz.com/piao/fusion/1803/b8/c5dcdb58deec2402.png" />
             </div>
             <p class="icon-desc">热门景点</p>
         </div>
         <div class="icon">
             <div class="icon-img-box">
-                <img class="icon-img" src="http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png" />
+                <img class="icon-img" src="http://img1.qunarzz.com/piao/fusion/1803/47/c2b659e048b11602.png" />
+            </div>
+            <p class="icon-desc">热门景点</p>
+        </div><strong></strong>
+        <div class="icon">
+            <div class="icon-img-box">
+                <img class="icon-img" src="http://img1.qunarzz.com/piao/fusion/1803/c1/6f15f887179fa002.png" />
             </div>
             <p class="icon-desc">热门景点</p>
         </div>
         <div class="icon">
             <div class="icon-img-box">
-                <img class="icon-img" src="http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png" />
+                <img class="icon-img" src="http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png" />
             </div>
             <p class="icon-desc">热门景点</p>
         </div>
         <div class="icon">
             <div class="icon-img-box">
-                <img class="icon-img" src="http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png" />
+                <img class="icon-img" src="http://img1.qunarzz.com/piao/fusion/1803/75/eca3ce656c886502.png" />
             </div>
             <p class="icon-desc">热门景点</p>
         </div>
         <div class="icon">
             <div class="icon-img-box">
-                <img class="icon-img" src="http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png" />
+                <img class="icon-img" src="http://img1.qunarzz.com/piao/fusion/1803/17/99402a22ce4af302.png" />
             </div>
             <p class="icon-desc">热门景点</p>
         </div>
         <div class="icon">
             <div class="icon-img-box">
-                <img class="icon-img" src="http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png" />
-            </div>
-            <p class="icon-desc">热门景点</p>
-        </div>
-        <div class="icon">
-            <div class="icon-img-box">
-                <img class="icon-img" src="http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png" />
+                <img class="icon-img" src="http://img1.qunarzz.com/piao/fusion/1803/17/99402a22ce4af302.png" />
             </div>
             <p class="icon-desc">热门景点</p>
         </div>
