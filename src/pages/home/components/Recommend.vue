@@ -17,30 +17,8 @@
 <script>
     export default {
         name: 'HomeRecommed',
-        data () {
-            return {
-                recommendList: [{
-                    id: '0001',
-                    imgUrl: 'http://img1.qunarzz.com/sight/p0/1603/c5/c5e2b211d10d4bb90.img.jpg_200x200_2a971b62.jpg',
-                    title: '千岛湖天迹热气球',
-                    desc: '淳安县千岛湖镇坪山工业园区天鹅山部速度快回复花见花开爱客家话'
-                }, {
-                    id: '0002',
-                    imgUrl: 'http://img1.qunarzz.com/sight/p0/1603/c5/c5e2b211d10d4bb90.img.jpg_200x200_2a971b62.jpg',
-                    title: '千岛湖天迹热气球',
-                    desc: '淳安县千岛湖镇坪山工业园区天鹅山部速度快回复花见花开爱客家话'
-                }, {
-                    id: '0003',
-                    imgUrl: 'http://img1.qunarzz.com/sight/p0/1603/c5/c5e2b211d10d4bb90.img.jpg_200x200_2a971b62.jpg',
-                    title: '千岛湖天迹热气球',
-                    desc: '淳安县千岛湖镇坪山工业园区天鹅山部速度快回复花见花开爱客家话'
-                }, {
-                    id: '0004',
-                    imgUrl: 'http://img1.qunarzz.com/sight/p0/1603/c5/c5e2b211d10d4bb90.img.jpg_200x200_2a971b62.jpg',
-                    title: '千岛湖天迹热气球',
-                    desc: '淳安县千岛湖镇坪山工业园区天鹅山部速度快回复花见花开爱客家话'
-                }]
-            }
+        props: {
+            recommendList: Array
         }
     }
 </script>
@@ -49,7 +27,6 @@
     @import '~styles/mixins.styl'
 
     .title
-        margin-top .2rem
         line-height .8rem
         background #eee
         text-indent .2rem

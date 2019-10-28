@@ -8,7 +8,7 @@
             内容
             </div>
         <div class="head-right">
-            城市
+            {{this.city}}
             <span class="iconfont arrow-icon">&#xe671;</span>
         </div>
     </div>
@@ -16,7 +16,10 @@
 
 <script>
     export default {
-        name: 'HomeHeader'
+        name: 'HomeHeader',
+        props: {
+            city: String
+        }
     }
 </script>
 
