@@ -34,7 +34,7 @@
                         class="item border-bottom"
                         v-for="innerItem of item"
                         :key="innerItem.id"
-                        @click="handleCityClick(innerItem.name)"
+                        @click='handleCityClick(innerItem.name)'
                     >
                         {{innerItem.name}}
                     </div>
@@ -60,11 +60,11 @@
             })
         },
         methods: {
-            ...mapMutations(['changeCity']),
             handleCityClick (city) {
                 this.changeCity(city)
                 this.$router.push('/')
-            }
+            },
+            ...mapMutations(['changeCity'])
         },
         watch: {
             letter () {
@@ -76,7 +76,10 @@
             }
         },
         mounted () {
-            this.scroll = new BScroll(this.$refs.wrapper)
+            this.scroll = new BScroll(this.$refs.wrapper, { mouseWheel: true, click: true, tap: true, touch: true })
+        },
+        activated () {
+            this.scroll.refresh()
         }
     }
 </script>
