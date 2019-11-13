@@ -57,5 +57,5 @@
             text-align center
             color #fff
             .arrow-icon
-                font-size .28rem
+                font-size .30rem
 </style>
