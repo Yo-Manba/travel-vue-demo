@@ -1,0 +1,27 @@
+{
+	"ret": true,
+	"data": {
+		"sightName": "杭州动物园(AAAA景区)",
+		"bannerImg": "//img1.qunarzz.com/sight/p0/1505/95/95db58d0da425616.water.jpg_600x330_8e2d4d17.jpg",
+		"gallaryImg": [
+			"http://img1.qunarzz.com/sight/p0/1505/95/95db58d0da425616.water.jpg_350x240_45002913.jpg",
+			"http://img1.qunarzz.com/sight/p0/201405/29/5804a2ec43c8812215f72ea4dffac916.jpg_350x240_15880e07.jpg",
+			"http://img1.qunarzz.com/sight/p0/1408/19/be26485d21261e77cbdb0993fd06fc39.jpg_350x240_9d2379ef.jpg",
+			"http://img1.qunarzz.com/sight/p0/201405/29/057849cad733b806bba3d749e83557d5.jpg_350x240_aec1a3d5.jpg",
+			"http://img1.qunarzz.com/sight/p0/201212/19/25910b51e5f0787193835fbb.jpg_350x240_9cd8194c.jpg"	
+		],
+		"categoryList": [{
+			"title": "成人票",
+			"children": [{
+				"title": "成人三馆联票",
+				"children": [{
+					"title": "成人三馆联票 - 某一连锁销售"
+				}]
+			}]
+		}, {
+			"title": "学生票"
+		}, {
+			"title": "儿童票"
+		}]
+	}
+}
