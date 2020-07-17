@@ -5,14 +5,14 @@
             to="/"
             class="header-abs"
             v-show="showAbs"
-        >
+            >
             <div class="iconfont header-abs-icon">&#xe624;</div>
         </router-link>
         <div
             class="header-fixed"
             v-show="!showAbs"
             :style="opacityStyle"
-        >
+            >
             <router-link to="/">
                 <div class="iconfont header-fixed-back">&#xe624;</div>
             </router-link>
